@@ -215,6 +215,15 @@ img{
 
 }
 
+.footer-Socials {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 22px;
+    font-size: 30px;
+    color: var(--color-white);
+  }
+
 /*PÀGINA INICI*/
 .introFestival{
     padding: 30px 28px;
